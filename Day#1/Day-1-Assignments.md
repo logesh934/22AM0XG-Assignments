@@ -10,9 +10,9 @@
 | <ul><li>- [x] </li></ul> | [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc) |
 | <ul><li>- [x] </li></ul> | [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser |
 | <ul><li>- [x] </li></ul> | [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser |
-| <ul><li>- [ ] </li></ul> | [Docker] Pull one of the participant’s docker images and verify whether the app is running or not  |
-| <ul><li>- [ ] </li></ul> | Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number  |
-| <ul><li>- [ ] </li></ul> | Create a LinkedIn account with personal mail ID  |
+| <ul><li>- [x] </li></ul> | [Docker] Pull one of the participant’s docker images and verify whether the app is running or not  |
+| <ul><li>- [x] </li></ul> | Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number  |
+| <ul><li>- [x] </li></ul> | Create a LinkedIn account with personal mail ID  |
 
 ***
 
@@ -71,11 +71,14 @@
 
 #### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
 > Add your answer here!
+<img width="326" alt="image" src="https://github.com/user-attachments/assets/8ae54e93-a0cf-4f3c-99d1-086f45bf1ae7">
 
 ***
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
 > Add your answer here!
+<img width="387" alt="image" src="https://github.com/user-attachments/assets/4ac6d104-17f6-4ee7-8413-7238215e77be">
+
 
 ***
 
